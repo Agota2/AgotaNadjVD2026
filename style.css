@@ -30,8 +30,19 @@ h1 {
 .list h1 {
     color: #0077b6;
     text-align: center;
-    margin-top: 60px;
-    margin-bottom: 20px;
+    font-size: 28px;
+    font-weight: 500;
+    margin-top: 50px;
+    margin-bottom: 10px;
+}
+
+.list h2 {
+    color: #333;
+    text-align: center;
+    font-size: 22px;
+    font-weight: 400;
+    margin-top: 0;
+    margin-bottom: 15px;
 }
 
 nav ul {
@@ -278,9 +289,9 @@ p1 {
 
 .list p {
     text-align: center;
-    margin-bottom: 40px;
+    font-size: 15px;
+    margin-bottom: 35px;
 }
-
 .contactinfo {
     display: flex;
     flex-direction: row;
