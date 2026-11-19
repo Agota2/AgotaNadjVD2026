@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://agota2.github.io/AgotaNadjVD2026/sitemap.xml
