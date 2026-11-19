@@ -358,5 +358,9 @@ p1 {
     font-size: 15px;
 }
 
-
+.facebook-share {
+    display: flex;
+    justify-content: center;
+    margin: 20px 0;
+}
 
